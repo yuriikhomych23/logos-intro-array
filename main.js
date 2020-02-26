@@ -173,7 +173,7 @@
 
 
 
-//FOR OF FOR IN 
+// FOR OF FOR IN 
 // let arr = ['Ivan', 'Yurii', 'Petro', 'Oleg'];
 
 // arr.forEach(function(value, index, array) {
@@ -183,6 +183,7 @@
 // for(let key of arr) {
 //     console.log(key);
 // };
+
 
 // for (let key in arr) {
 //     console.log(arr[key]);
